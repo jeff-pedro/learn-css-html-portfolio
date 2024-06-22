@@ -1,5 +1,5 @@
 # Portifólio
-Explorando recuros do CSS e HTML ao criar um Portifólio.
+Explorando recursos do CSS e HTML ao criar um Portifólio.
 
 ## Referências
 - [ ] [CSS: seletores avançados que facilitam o desenvolvimento](https://www.alura.com.br/artigos/css-seletores-avancados-aplicacoes-web)
