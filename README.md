@@ -46,6 +46,6 @@ Bem vindo ao meu projeto de Portifólio. Este projeto foi desenvolvido durantes 
 
 ## Feito por:
 
-### Jefferson Santos
+### Jefferson Pedro
 
 ### Linkedin: https://www.linkedin.com/in/jeffersonpedro
