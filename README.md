@@ -2,7 +2,7 @@
 
 Bem vindo ao meu projeto de Portifólio. Este projeto foi desenvolvido durantes meus estudos sobre CSS e HTML.
 
-## Ferramentas utilizadas
+## Ferramentas utilizadas:
 
 - HTML
 - CSS
@@ -39,6 +39,23 @@ Bem vindo ao meu projeto de Portifólio. Este projeto foi desenvolvido durantes 
 - [Como remover linhas dos links dos botões](https://cursos.alura.com.br/forum/topico-linhas-dos-links-dos-botoes-continuam-aparecendo-282291)
 - [Erro no estilizando botões - HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/forum/topico-bug-erro-no-estilizando-botoes-299755)
 - [SASS e CSS: estilizando um site](https://www.alura.com.br/conteudo/sass-css-estilizando-site)
+
+### Responsividade
+
+- [Guia de Unidades no CSS - Alura](https://www.alura.com.br/artigos/guia-de-unidades-no-css)
+- [Entendendo unidades CSS e quando utilizá-las - DEV Community](https://dev.to/lixeletto/entendendo-unidades-css-e-quando-utiliza-las-3ecc)
+- [Unidades de medida no CSS: escolhendo a melhor opção para cada caso - DEV Community](https://dev.to/loresgarcia/unidades-de-medida-no-css-escolhendo-a-melhor-opcao-para-cada-caso-3jh9)
+- [PT-BR Unidades Relativas: rem e em - DEV Community](https://dev.to/mbthales/pt-br-unidades-relativas-rem-e-em-4d8j)
+- [Técnica para você mudar de pixels(px) para rem!](https://dev.to/gabrlcj/tecnica-para-voce-mudar-de-pixels-px-para-rem-2626)
+- [Importância das unidades relativas "Em" e "Rem"](https://cursos.alura.com.br/forum/topico-importancia-das-unidades-relativas-em-e-rem-257614)
+- [Guia de Flexbox no CSS](https://www.origamid.com/projetos/flexbox-guia-completo/)
+- [A Web Mobile: Design Responsivo e além para uma Web adaptada ao mundo mobile](https://www.casadocodigo.com.br/products/livro-web-mobile?_pos=1&_sid=295b6578a&_ss=r)
+- [Podcast sobre CSS e Design Responsivo](https://www.alura.com.br/podcast/tendencias-no-front-end-2022-hipsters-ponto-tech-286-a1368)
+- [Flexbox CSS: guia completo, elementos e exemplos](https://www.alura.com.br/artigos/css-guia-do-flexbox)
+- [Flexbox - Aprendendo desenvolvimento web](https://developer.mozilla.org/pt-BR/docs/Learn/CSS/CSS_layout/Flexbox)
+- [Guia completo de Flexbox - display: flex](https://triangulo.dev/posts/guia-completo-flexbox/)
+- [Tutorial de media queries do CSS – resoluções padrão, breakpoints em CSS e tamanhos de telefone](https://www.freecodecamp.org/portuguese/news/tutorial-de-media-queries-do-css-resolucoes-padrao-breakpoints-do-css-e-tamanhos-de-telefone/)
+- [Como colocar seu projeto no ar com o Github Pages?](https://www.alura.com.br/artigos/como-colocar-projeto-no-ar-com-github-pages)
 
 </details>
 
