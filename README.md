@@ -2,7 +2,9 @@
 
 Bem vindo ao meu projeto de Portifólio. Este projeto foi desenvolvido durantes meus estudos sobre CSS e HTML.
 
-## Ferramentas utilizadas
+![image](https://github.com/user-attachments/assets/5348d584-617a-4e73-b1ec-286fc1ef8a68)
+
+## Ferramentas utilizadas:
 
 - HTML
 - CSS
