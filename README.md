@@ -1,6 +1,6 @@
-# Portifólio
+# Portfólio
 
-Bem vindo ao meu projeto de Portifólio. Este projeto foi desenvolvido durantes meus estudos sobre CSS e HTML.
+Bem vindo ao meu projeto de Portfólio. Este projeto foi desenvolvido durantes meus estudos sobre CSS e HTML.
 
 ![image](https://github.com/user-attachments/assets/5348d584-617a-4e73-b1ec-286fc1ef8a68)
 
