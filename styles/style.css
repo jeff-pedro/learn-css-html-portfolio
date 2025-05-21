@@ -47,7 +47,7 @@ body {
     padding: 5% 15%;
     display: flex;
     align-items: center;
-    /* justify-content: space-between; */
+    justify-content: space-between;
     gap: 5.125rem;
 }
 
@@ -88,7 +88,6 @@ body {
 .apresentacao__links {
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* necessário? */
     align-items: center;
     gap: 2.5rem;
     width: 100%; 
@@ -111,7 +110,7 @@ body {
 .apresentacao__links__navegacao {
     display: flex;
     justify-content: center;
-    align-items: center; /* eu add é necessário ? */
+    align-items: center;
     gap: 1rem;
     width: 65%;
     padding: 1rem 10%;
@@ -168,12 +167,6 @@ body {
     .rodape {
         font-size: 1rem;
     }
-
-    /* .rodape {
-        position: fixed;
-        bottom: 0;
-        width: 100%;
-    } */
 }
 
 @media (max-width: 480px) {
